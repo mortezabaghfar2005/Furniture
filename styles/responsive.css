@@ -1,0 +1,314 @@
+@media (max-width:1250px) {
+    .collection-information {
+        height: 360px;
+        text-align: center;
+    }
+
+    .collection-title {
+        font-size: 34px;
+        line-height: 45px;
+    }
+
+    .collection-text {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25px;
+    }
+
+    .collection-btn {
+        padding: 15px 34px;
+    }
+
+    .images img {
+        width: 300px;
+    }
+
+
+    .space-img {
+        margin-right: 50px;
+    }
+
+    .space-img img {
+        width: 300px;
+        height: 500px;
+    }
+
+    .circle {
+        margin-top: -375px;
+        margin-left: 15px;
+    }
+
+    .range-imgs img {
+        width: 300px;
+    }
+
+    .work-img img {
+        width: 300px;
+    }
+
+    .footer {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media (max-width:992px) {
+    .label-mobile {
+        display: flex;
+        justify-content: end;
+        margin-right: 50px;
+    }
+
+    .collection-img {
+        width: 980px;
+    }
+
+    .nav-title {
+        display: flex;
+        margin-left: 20px;
+    }
+
+    .nav-items {
+        display: none;
+    }
+
+    .label-nav {
+        display: block;
+        margin-top: -50px;
+        margin-left: 835px;
+    }
+
+    .collection-information {
+        display: none;
+    }
+
+    .conditions {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .images img {
+        width: 200px;
+    }
+
+    .space {
+        flex-direction: column;
+    }
+
+    .space-details {
+        text-align: center;
+    }
+
+    .space-img {
+        margin: 0 auto;
+    }
+
+    .circle {
+        margin-top: -430px;
+    }
+
+    .range-imgs img {
+        width: 230px;
+    }
+
+    .work-img img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .footer-imgs {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-imgs img {
+        width: 300px;
+        height: 250px;
+    }
+}
+
+@media (max-width:768px) {
+    .collection-img {
+        width: 800px;
+        background-position: left;
+    }
+
+    .images {
+        margin-top: 75px;
+    }
+
+    .images img {
+        width: 150px;
+    }
+
+    .conditions {
+        gap: 50px;
+    }
+
+    .range-title {
+        font-size: 25px;
+    }
+
+    .range-text {
+        font-size: 16px;
+    }
+
+    .range-imgs {
+        flex-direction: column;
+    }
+
+    .range-imgs img {
+        width: 500px;
+    }
+
+    .work-title {
+        font-size: 25px;
+    }
+
+    .work-text {
+        font-size: 16px;
+    }
+
+    .work-imgs {
+        flex-direction: column;
+    }
+
+    .work-img img {
+        width: 400px;
+        height: 350px;
+    }
+
+}
+
+@media (max-width:576px) {
+    .nav-title {
+        margin-left: 20px;
+        margin-right: -30px;
+    }
+
+    .toggle-nav {
+        margin-right: -25px;
+    }
+
+    .collection-img {
+        width: 600px;
+    }
+
+    .inspiration-title {
+        font-size: 25px;
+        font-size: 20px;
+    }
+
+    .inspiration-text {
+        font-size: 11px;
+    }
+
+    .images {
+        margin-top: 50px;
+    }
+
+    .images img {
+        width: 100px;
+    }
+
+    .Mockup {
+        margin-top: -40px;
+    }
+
+    .space-text {
+        font-size: 16px;
+    }
+
+    .range-imgs img {
+        width: 400px;
+    }
+
+    .mailing-title {
+        font-size: 25px;
+    }
+
+    .mailing-text {
+        font-size: 16px;
+    }
+}
+
+@media (max-width:480px) {
+    .nav-title {
+        margin-left: 10px;
+        margin-right: -30px;
+        font-size: 30px;
+    }
+
+    .collection-img {
+        width: 400px;
+        background-position: center;
+    }
+
+    .toggle-nav {
+        margin-right: -40px;
+    }
+
+    .collection-img {
+        width: 500px;
+    }
+
+    .images img {
+        width: 90px;
+    }
+
+    .space-title {
+        font-size: 25px;
+    }
+
+    .space-text {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .space-img img {
+        width: 250px;
+        height: 300px;
+    }
+
+    .circle {
+        width: 200px;
+        height: 200px;
+        margin-top: -255px;
+        margin-left: 90px;
+    }
+
+    .range-imgs img {
+        width: 330px;
+    }
+
+    .range-text {
+        font-size: 16px;
+    }
+
+    .range-title {
+        font-size: 20px;
+    }
+
+    .work-img img {
+        width: 330px;
+        height: 300px;
+    }
+
+    .mailing-text {
+        font-size: 13px;
+    }
+
+    .mailing-input {
+        width: 280px;
+    }
+
+    .footer-title {
+        font-size: 20px;
+    }
+
+    .footer-text {
+        line-height: 20px;
+        font-size: 11px;
+    }
+
+}
