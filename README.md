@@ -1,4 +1,4 @@
-# <img src="Images/Icon/icons8-furniture-50.png"> Furniture
+# <img align="center" src="Images/Icon/icons8-furniture-50.png"> Furniture
 
 ## In This Project I Used 'HTML', 'CSS' and 'JS'.
 
