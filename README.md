@@ -1,4 +1,4 @@
-# ![Furniture](Images/Icon/icons8-furniture-100.png width="20px")Furniture
+# ![Furniture](Images/Icon/icons8-furniture-100.png)Furniture
 
 ## In This Project I Used 'HTML', 'CSS' and 'JS'.
 
