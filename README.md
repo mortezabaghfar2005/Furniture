@@ -6,5 +6,5 @@
 
 <p>You Can See My Online Project</p>
 
-<a href="(https://mortezabaghfar2005.github.io/Furniture/)">Online Project Furniture</a>
+<a href="https://mortezabaghfar2005.github.io/Furniture">Online Project Furniture</a>
 
