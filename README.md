@@ -1,4 +1,4 @@
-# ![Furniture](Images/Icon/icons8-furniture-50.png) Furniture
+# ![Furniture](Images/Icon/icons8-furniture-50.png) <h1 align="center">Furniture</h1>
 
 ## In This Project I Used 'HTML', 'CSS' and 'JS'.
 
